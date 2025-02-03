@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Service House Processed</name>
+<visibility>1</visibility>
+<Folder id="kml_ft_Service_House_Processed">
+<name>Service House Processed</name>
+<Placemark id="kml_1">
+<name>2716</name>
+<Style>
+<LineStyle>
+<color>ff7fffff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-121.526538683832,-0.0368173019793336,6.23342926176348</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>Level 1</name>
+<Style>
+<LineStyle>
+<color>ff7fffff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-121.526538684365,-0.0368278469545529,8.03588869785731</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<Style>
+<LineStyle>
+<color>ff7fffff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-121.526538682263,-0.0367862508611227,6.77389570022161</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>116</name>
+<Style>
+<LineStyle>
+<color>ff7fffff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-121.526538683548,-0.0368116861124935,-0.540466438458131</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>Level 0</name>
+<Style>
+<LineStyle>
+<color>ff7fffff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-121.526538684365,-0.0368278469545529,1.2619929976357</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<Style>
+<LineStyle>
+<color>ff7fffff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-121.526538682263,-0.0367862508611227,-2.22145033042571e-16</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<Style>
+<LineStyle>
+<color>ff7fbfff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-121.526529184706,-0.0368767225920627,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<Style>
+<LineStyle>
+<color>ff7fbfff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-121.526458931135,-0.0368767261960042,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<Style>
+<LineStyle>
+<color>ff7fffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-121.5265386883,-0.0369056174031624,6.77389570022162 -121.526420120808,-0.0369056234903083,6.77389570022162</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<Style>
+<LineStyle>
+<color>ff7fffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-121.526538682263,-0.0367862508611227,6.77389570022162 -121.5265386883,-0.0369056174031624,6.77389570022162</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<Style>
+<LineStyle>
+<color>ff7fffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-121.5265386883,-0.0369056174031624,0.0 -121.526420120808,-0.0369056234903083,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<Style>
+<LineStyle>
+<color>ff7fffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-121.526538682263,-0.0367862508611227,0.0 -121.5265386883,-0.0369056174031624,0.0</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+</Document></kml>
